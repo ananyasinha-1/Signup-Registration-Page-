@@ -10,3 +10,10 @@ A responsive signup page for user account creation. Includes input validation an
 ## 🛠️ Technologies Used
 - HTML  
 - CSS  
+
+## 📌 Use Case
+Perfect for:
+- Web applications  
+- College projects  
+- User authentication systems  
+- Startup prototypes  
