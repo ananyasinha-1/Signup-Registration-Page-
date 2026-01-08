@@ -6,3 +6,7 @@ A responsive signup page for user account creation. Includes input validation an
 - Input validation for secure data entry  
 - Clean and responsive UI  
 - Ready for backend authentication integration  
+
+## 🛠️ Technologies Used
+- HTML  
+- CSS  
